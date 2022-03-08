@@ -25,7 +25,7 @@ namespace AutoMapperABC
 
             var a = new EmployeeDto() { Name = "abc", Salary = 2, Address = "Address", Department = "Department" };
             var b = mapper.Map<Employee>(a);
-            b.Name = "xyz";
+            //b.Name = "xyz";
         }
 
 
