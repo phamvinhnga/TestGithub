@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Bjw7uwi7KU6ktZTrRVYClId4iiWXzhjOBdn/JFyovvN2IKbmGGw1UprV4crhU4NRp6J+MRCz0xWLltod3Vm8w==",
+  "dgSpecHash": "K0sUuaqIV0B6JRql0dzzchs0oSrqwD3h3HfRcbTYYFxMy1gWQwxZGb/DSLRSw1gDhOFJOJyZ6aJOuXwegBAw1g==",
   "success": true,
-  "projectFilePath": "D:\\_LEARN\\AutoMapperABC\\AutoMapperABC\\AutoMapperABC.csproj",
+  "projectFilePath": "D:\\_LEARN\\TestGithub\\AutoMapperABC\\AutoMapperABC\\AutoMapperABC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HuyenDuc\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\HuyenDuc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_LEARN\\AutoMapperABC\\AutoMapperABC\\AutoMapperABC.csproj": {}
+    "D:\\_LEARN\\TestGithub\\AutoMapperABC\\AutoMapperABC\\AutoMapperABC.csproj": {}
   },
   "projects": {
-    "D:\\_LEARN\\AutoMapperABC\\AutoMapperABC\\AutoMapperABC.csproj": {
+    "D:\\_LEARN\\TestGithub\\AutoMapperABC\\AutoMapperABC\\AutoMapperABC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_LEARN\\AutoMapperABC\\AutoMapperABC\\AutoMapperABC.csproj",
+        "projectUniqueName": "D:\\_LEARN\\TestGithub\\AutoMapperABC\\AutoMapperABC\\AutoMapperABC.csproj",
         "projectName": "AutoMapperABC",
-        "projectPath": "D:\\_LEARN\\AutoMapperABC\\AutoMapperABC\\AutoMapperABC.csproj",
+        "projectPath": "D:\\_LEARN\\TestGithub\\AutoMapperABC\\AutoMapperABC\\AutoMapperABC.csproj",
         "packagesPath": "C:\\Users\\HuyenDuc\\.nuget\\packages\\",
-        "outputPath": "D:\\_LEARN\\AutoMapperABC\\AutoMapperABC\\obj\\",
+        "outputPath": "D:\\_LEARN\\TestGithub\\AutoMapperABC\\AutoMapperABC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
